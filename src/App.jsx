@@ -115,7 +115,7 @@ function App() {
         ) : (
           <div className="flex justify-center items-center flex-col w-100/100 h-100/100">
                         <img className ="h-30/100"src={Logo} alt="" />
-            <p className="text-white text-3xl">Welcome to Langify</p>
+            <p className="text-white text-3xl">Welcome to Lingify</p>
             <p className = "text-center text-xs text-white italic font-thin mt-2 w-80/100">Get phrases in English and practice translating them to your target language</p>
 
             <div className="navbar w-1/1 p-4 flex items-center justify-center flex-col">

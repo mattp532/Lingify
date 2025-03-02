@@ -1,7 +1,7 @@
 {
   "name": "cantone",
   "homepage": "https://mattp532.github.io/Lingify/",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {

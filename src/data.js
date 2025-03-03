@@ -233,7 +233,178 @@ export const phraseBank = {
         "jyutping": "Ho2 m4 ho2 ji5 bei2 daan1?",
         "french": "Puis-je avoir l'addition?",
         "spanish": "¿Puedo tener la cuenta?"
-      }
+      },
+      {
+        "english": "Good evening",
+        "mandarin": "晚上好",
+        "pinyin": "Wan3shang4 hao3",
+        "cantonese": "晩唞",
+        "jyutping": "Maan5 tau2",
+        "french": "Bonsoir",
+        "spanish": "Buenas noches"
+    },
+    {
+        "english": "Good night",
+        "mandarin": "晚安",
+        "pinyin": "Wan3'an1",
+        "cantonese": "早唞",
+        "jyutping": "Zou2 an1",
+        "french": "Bonne nuit",
+        "spanish": "Buenas noches"
+    },
+    {
+        "english": "How much is this?",
+        "mandarin": "这个多少钱?",
+        "pinyin": "Zhe4ge dou1 shao3 qian2?",
+        "cantonese": "呢個幾多錢?",
+        "jyutping": "Ni1 go3 gei2 do1 cin2?",
+        "french": "Combien ça coûte?",
+        "spanish": "¿Cuánto cuesta esto?"
+    },
+    {
+        "english": "I don't understand.",
+        "mandarin": "我不明白。",
+        "pinyin": "Wo3 bu4 ming2bai.",
+        "cantonese": "我唔明白。",
+        "jyutping": "Ngo5 m4 ming4 baak3.",
+        "french": "Je ne comprends pas.",
+        "spanish": "No entiendo."
+    },
+    {
+        "english": "Can you help me?",
+        "mandarin": "你可以帮我吗?",
+        "pinyin": "Ni3 ke3yi3 bang1 wo3 ma?",
+        "cantonese": "你可以幫我嗎?",
+        "jyutping": "Lei5 ho2 ji5 bong1 ngo5 maa3?",
+        "french": "Pouvez-vous m'aider?",
+        "spanish": "¿Puedes ayudarme?"
+    },
+    {
+        "english": "I need help.",
+        "mandarin": "我需要帮助。",
+        "pinyin": "Wo3 xu1yao4 bang1zhu4.",
+        "cantonese": "我需要幫助。",
+        "jyutping": "Ngo5 seoi1 jiu3 bong1 zo2.",
+        "french": "J'ai besoin d'aide.",
+        "spanish": "Necesito ayuda."
+    },
+    {
+        "english": "Where is [place]?",
+        "mandarin": "哪里是[place]?",
+        "pinyin": "Na3li3 shi4 [place]?",
+        "cantonese": " [place] 喺邊?",
+        "jyutping": "[Place] hai6 bin1?",
+        "french": "Où est [place]?",
+        "spanish": "¿Dónde está [place]?"
+    },
+    {
+        "english": "I don't like it.",
+        "mandarin": "我不喜欢。",
+        "pinyin": "Wo3 bu4 xi3huan.",
+        "cantonese": "我唔鍾意。",
+        "jyutping": "Ngo5 m4 zung1 ji3.",
+        "french": "Je n'aime pas ça.",
+        "spanish": "No me gusta."
+    },
+    {
+        "english": "I like it.",
+        "mandarin": "我喜欢。",
+        "pinyin": "Wo3 xi3huan.",
+        "cantonese": "我鍾意。",
+        "jyutping": "Ngo5 zung1 ji3.",
+        "french": "J'aime ça.",
+        "spanish": "Me gusta."
+    },
+    {
+        "english": "Can you speak slowly?",
+        "mandarin": "你可以说慢一点吗?",
+        "pinyin": "Ni3 ke3yi3 shuo1 man4 yi1dian3 ma?",
+        "cantonese": "你可以講慢啲嗎?",
+        "jyutping": "Lei5 ho2 ji5 gong2 maan6 di1 maa3?",
+        "french": "Pouvez-vous parler lentement?",
+        "spanish": "¿Puedes hablar más despacio?"
+    },
+    {
+        "english": "What does this mean?",
+        "mandarin": "这个是什么意思?",
+        "pinyin": "Zhe4ge shi4 shen2me yi4si?",
+        "cantonese": "呢個係咩意思?",
+        "jyutping": "Ni1 go3 hai6 me1 ji3 si6?",
+        "french": "Que signifie cela?",
+        "spanish": "¿Qué significa esto?"
+    },
+    {
+        "english": "What is this?",
+        "mandarin": "这是什么?",
+        "pinyin": "Zhe4 shi4 shen2me?",
+        "cantonese": "呢個係咩?",
+        "jyutping": "Ni1 go3 hai6 me1?",
+        "french": "Qu'est-ce que c'est?",
+        "spanish": "¿Qué es esto?"
+    },
+    {
+        "english": "I am thirsty.",
+        "mandarin": "我渴了。",
+        "pinyin": "Wo3 ke3 le.",
+        "cantonese": "我渴。",
+        "jyutping": "Ngo5 hot3.",
+        "french": "J'ai soif.",
+        "spanish": "Tengo sed."
+    },
+    {
+        "english": "I am hungry.",
+        "mandarin": "我饿了。",
+        "pinyin": "Wo3 e4 le.",
+        "cantonese": "我肚餓。",
+        "jyutping": "Ngo5 tou5 ngo6.",
+        "french": "J'ai faim.",
+        "spanish": "Tengo hambre."
+    },
+    {
+        "english": "Do you understand?",
+        "mandarin": "你明白吗?",
+        "pinyin": "Ni3 ming2bai4 ma?",
+        "cantonese": "你明唔明?",
+        "jyutping": "Lei5 ming4 m4 ming4?",
+        "french": "Vous comprenez?",
+        "spanish": "¿Entiendes?"
+    },
+    {
+        "english": "I'm sorry, I don't speak Chinese.",
+        "mandarin": "对不起，我不会说中文。",
+        "pinyin": "Dui4buqi3, wo3 bu4 hui4 shuo1 Zhong1wen2.",
+        "cantonese": "唔好意思，我唔識講中文。",
+        "jyutping": "M4 ho2 ji3 si3, ngo5 m4 sik1 gong2 zung1man2.",
+        "french": "Désolé, je ne parle pas chinois.",
+        "spanish": "Lo siento, no hablo chino."
+    },
+    {
+        "english": "What is the weather like?",
+        "mandarin": "天气怎么样?",
+        "pinyin": "Tian1qi4 zen3me yang4?",
+        "cantonese": "天氣點?",
+        "jyutping": "Tin1hei3 dim2?",
+        "french": "Quel temps fait-il?",
+        "spanish": "¿Cómo está el clima?"
+    },
+    {
+        "english": "It is hot.",
+        "mandarin": "很热。",
+        "pinyin": "Hen3 re4.",
+        "cantonese": "好熱。",
+        "jyutping": "Hou2 jit6.",
+        "french": "Il fait chaud.",
+        "spanish": "Hace calor."
+    },
+    {
+        "english": "It is cold.",
+        "mandarin": "很冷。",
+        "pinyin": "Hen3 leng3.",
+        "cantonese": "好凍。",
+        "jyutping": "Hou2 dung3.",
+        "french": "Il fait froid.",
+        "spanish": "Hace frío."
+    }
     
     
   ],
@@ -444,6 +615,150 @@ export const phraseBank = {
       "jyutping": "Li1 go3 zo6wai6 jau5 jan4 maa3?",
       "french": "Ce siège est-il occupé?",
       "spanish": "¿Está ocupado este asiento?"
+    },
+    {
+      "english": "What time does the last train leave?",
+      "mandarin": "最后一班火车几点离开?",
+      "pinyin": "Zui4hou4 yi1ban1 huo3che1 ji3dian3 li2kai1?",
+      "cantonese": "最後一班火車幾點開?",
+      "jyutping": "Zeoi3hau6 jat1 baan1 fo2ce1 gei2 dim2 hoi1?",
+      "french": "À quelle heure part le dernier train?",
+      "spanish": "¿A qué hora sale el último tren?"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "mandarin": "请给我账单。",
+      "pinyin": "Qing3 gei3 wo3 zhang4dan1.",
+      "cantonese": "請俾我單。",
+      "jyutping": "Cing2 bei2 ngo5 daan1.",
+      "french": "Puis-je avoir l'addition, s'il vous plaît?",
+      "spanish": "¿Me puede traer la cuenta, por favor?"
+    },
+    {
+      "english": "How far is the airport from here?",
+      "mandarin": "机场离这里有多远?",
+      "pinyin": "Ji1chang3 li2 zhe4li3 you3 duo1yuan3?",
+      "cantonese": "機場離呢度有多遠?",
+      "jyutping": "Gei1coeng4 lei4 ni1 dou6 jau5 do1 jyun5?",
+      "french": "À quelle distance est l'aéroport d'ici?",
+      "spanish": "¿Qué tan lejos está el aeropuerto de aquí?"
+    },
+    {
+      "english": "I need to buy a SIM card.",
+      "mandarin": "我需要买一张SIM卡。",
+      "pinyin": "Wo3 xu1yao4 mai3 yi1 zhang1 SIM ka3.",
+      "cantonese": "我需要買一張SIM卡。",
+      "jyutping": "Ngo5 seoi1jyu3 maai5 jat1 zoeng1 SIM kaat1.",
+      "french": "J'ai besoin d'acheter une carte SIM.",
+      "spanish": "Necesito comprar una tarjeta SIM."
+    },
+    {
+      "english": "Where can I find a taxi?",
+      "mandarin": "哪里可以找到出租车?",
+      "pinyin": "Na3li3 ke3yi3 zhao3 dao4 chu1zu1che1?",
+      "cantonese": "邊度可以搵到的士?",
+      "jyutping": "Bin1 dou6 ho2 ji5 wan2 dou3 dik1 si2?",
+      "french": "Où puis-je trouver un taxi?",
+      "spanish": "¿Dónde puedo encontrar un taxi?"
+    },
+    {
+      "english": "I think I am lost.",
+      "mandarin": "我觉得我迷路了。",
+      "pinyin": "Wo3 jue2de wo3 mi2lu4 le.",
+      "cantonese": "我覺得我迷路咗。",
+      "jyutping": "Ngo5 gok3dak1 ngo5 mai4lou6 zo2.",
+      "french": "Je pense que je me suis perdu.",
+      "spanish": "Creo que me he perdido."
+    },
+    {
+      "english": "Is there a supermarket around here?",
+      "mandarin": "这附近有超市吗?",
+      "pinyin": "Zhe4 fu4jin4 you3 chao1shi4 ma?",
+      "cantonese": "呢度附近有超市嗎?",
+      "jyutping": "Ni1 dou6 fu6gan6 jau5 ciu1si5 maa3?",
+      "french": "Y a-t-il un supermarché par ici?",
+      "spanish": "¿Hay un supermercado por aquí?"
+    },
+    {
+      "english": "What is the weather like today?",
+      "mandarin": "今天的天气怎么样?",
+      "pinyin": "Jin1tian1 de tian1qi4 zen3me yang4?",
+      "cantonese": "今日嘅天氣點?",
+      "jyutping": "Gam1jat6 ge3 tin1hei3 dim2?",
+      "french": "Quel temps fait-il aujourd'hui?",
+      "spanish": "¿Qué tiempo hace hoy?"
+    },
+    {
+      "english": "Can you recommend a good restaurant?",
+      "mandarin": "你能推荐一个好餐馆吗?",
+      "pinyin": "Ni3 neng2 tui1jian4 yi1 ge4 hao3 can1guan3 ma?",
+      "cantonese": "你可以推薦一間好餐廳嗎?",
+      "jyutping": "Lei5 ho2 ji5 teoi1zin2 jat1 gaan1 hou2 caan1teng1 maa3?",
+      "french": "Pouvez-vous recommander un bon restaurant?",
+      "spanish": "¿Puedes recomendarme un buen restaurante?"
+    },
+    {
+      "english": "What is your favorite dish?",
+      "mandarin": "你最喜欢的菜是什么?",
+      "pinyin": "Ni3 zui4 xi3huan1 de cai4 shi4 shen2me?",
+      "cantonese": "你最鍾意嘅菜係咩?",
+      "jyutping": "Nei5 zeoi3 zung1ji3 ge3 coi3 hai6 me1?",
+      "french": "Quel est votre plat préféré?",
+      "spanish": "¿Cuál es tu plato favorito?"
+    },
+    {
+      "english": "Can I sit here?",
+      "mandarin": "我可以坐这里吗?",
+      "pinyin": "Wo3 ke3yi3 zuo4 zhe4li3 ma?",
+      "cantonese": "我可以坐呢度嗎?",
+      "jyutping": "Ngo5 ho2 ji5 co5 ni1 dou6 maa3?",
+      "french": "Puis-je m'asseoir ici?",
+      "spanish": "¿Puedo sentarme aquí?"
+    },
+    {
+      "english": "Is there a good place to visit around here?",
+      "mandarin": "附近有好玩的地方吗?",
+      "pinyin": "Fu4jin4 you3 hao3 wan2 de di4fang1 ma?",
+      "cantonese": "附近有啲好玩嘅地方嗎?",
+      "jyutping": "Fu6gan6 jau5 di1 hou2 waan2 ge3 dei6fong1 maa3?",
+      "french": "Y a-t-il des endroits intéressants à visiter par ici?",
+      "spanish": "¿Hay lugares interesantes para visitar por aquí?"
+    },
+    {
+      "english": "How much is this item?",
+      "mandarin": "这个东西多少钱?",
+      "pinyin": "Zhe4ge dong1xi duo1shao3 qian2?",
+      "cantonese": "呢個嘢幾多錢?",
+      "jyutping": "Li1 go3 je5 gei2 do1 cin4?",
+      "french": "Combien coûte cet article?",
+      "spanish": "¿Cuánto cuesta este artículo?"
+    },
+    {
+      "english": "Can I take a photo here?",
+      "mandarin": "我可以在这里拍照吗?",
+      "pinyin": "Wo3 ke3yi3 zai4 zhe4li3 pai1zhao4 ma?",
+      "cantonese": "我可以喺呢度影相嗎?",
+      "jyutping": "Ngo5 ho2 ji5 hai2 ni1 dou6 jing2 soeng2 maa3?",
+      "french": "Puis-je prendre une photo ici?",
+      "spanish": "¿Puedo tomar una foto aquí?"
+    },
+    {
+      "english": "Do you accept cash?",
+      "mandarin": "你接受现金吗?",
+      "pinyin": "Ni3 jie1shou4 xian4jin1 ma?",
+      "cantonese": "你接受現金嗎?",
+      "jyutping": "Nei5 zip3sau6 jin6gam1 maa3?",
+      "french": "Acceptez-vous les espèces?",
+      "spanish": "¿Aceptan efectivo?"
+    },
+    {
+      "english": "Do you have any vegetarian options?",
+      "mandarin": "你有素食的选项吗?",
+      "pinyin": "Ni3 you3 su4shi2 de xuan3xiang4 ma?",
+      "cantonese": "你有冇素食嘅選擇?",
+      "jyutping": "Nei5 jau5 mou5 sou3sik6 ge3 syun2zaak6?",
+      "french": "Avez-vous des options végétariennes?",
+      "spanish": "¿Tienen opciones vegetarianas?"
     }
   ],
   "Advanced": [  {
@@ -670,6 +985,123 @@ export const phraseBank = {
       "jyutping": "ngo5 zan1sam1 gam2ze6 nei5 hai2 ni1 gin6 si6 soeng6 ge3 bong1zo6.",
       "french": "Je vous remercie sincèrement pour votre aide dans cette affaire.",
       "spanish": "Agradezco sinceramente su ayuda en este asunto."
+    },
+    {
+      "english": "I’m excited to start this new project together.",
+      "mandarin": "我很高兴能一起开始这个新项目。",
+      "pinyin": "Wǒ hěn gāoxìng néng yīqǐ kāishǐ zhège xīn xiàngmù.",
+      "cantonese": "我好開心可以一齊開始呢個新項目。",
+      "jyutping": "Ngo5 hou2 hoi1sam1 ho2ji5 jat1cai4 hoi1ci2 ni1 go3 san1 hoeng3mok6.",
+      "french": "Je suis excité de commencer ce nouveau projet ensemble.",
+      "spanish": "Estoy emocionado de empezar este nuevo proyecto juntos."
+    },
+    {
+      "english": "Can we meet up after school to study?",
+      "mandarin": "我们放学后可以见面一起复习吗？",
+      "pinyin": "Wǒmen fàngxué hòu kěyǐ jiànmiàn yīqǐ fùxí ma?",
+      "cantonese": "我哋放學後可以見面一齊溫習嗎?",
+      "jyutping": "Ngo5dei6 fong3hok6 hau6 ho2ji5 gin3min6 jat1cai4 wan1zaap6 maa3?",
+      "french": "On peut se retrouver après l'école pour réviser ?",
+      "spanish": "¿Podemos encontrarnos después de la escuela para estudiar?"
+    },
+    {
+      "english": "I’m working on something cool for my hobby.",
+      "mandarin": "我正在做一些很酷的事情作为我的爱好。",
+      "pinyin": "Wǒ zhèngzài zuò yīxiē hěn kù de shìqíng zuòwéi wǒ de àihào.",
+      "cantonese": "我而家喺做啲好型嘅嘢當作我嘅興趣。",
+      "jyutping": "Ngo5 ji4gaa1 hai2 zou6 di1 hou2 jing4 ge3 je5 dong1zok3 ngo5 ge3 hing3ceoi3.",
+      "french": "Je travaille sur quelque chose de cool pour mon hobby.",
+      "spanish": "Estoy trabajando en algo interesante para mi hobby."
+    },
+    {
+      "english": "This weekend, I plan to relax and catch up on some shows.",
+      "mandarin": "这个周末，我打算放松一下，看点剧。",
+      "pinyin": "Zhège zhōumò, wǒ dǎsuàn fàngsōng yīxià, kàn diǎn jù.",
+      "cantonese": "呢個周末，我打算放鬆一下，睇啲劇。",
+      "jyutping": "Ni1 go3 zau1mut6, ngo5 da2syun3 fong3sung1 jat1haa5, tai2 di1 kek6.",
+      "french": "Ce week-end, je prévois de me détendre et de regarder des séries.",
+      "spanish": "Este fin de semana, planeo relajarme y ponerme al día con algunas series."
+    },
+    {
+      "english": "I’ve been getting into photography lately.",
+      "mandarin": "最近我开始对摄影感兴趣了。",
+      "pinyin": "Zuìjìn wǒ kāishǐ duì shèyǐng gǎn xìngqù le.",
+      "cantonese": "最近我開始對攝影有興趣。",
+      "jyutping": "Zoi3gan6 ngo5 hoi1ci2 deoi3 sip3jing2 jau5 hing3ceoi3.",
+      "french": "Récemment, je me suis mis à la photographie.",
+      "spanish": "Últimamente me he interesado en la fotografía."
+    },
+    {
+      "english": "I’m looking forward to the concert this Friday.",
+      "mandarin": "我很期待这周五的音乐会。",
+      "pinyin": "Wǒ hěn qīdài zhè zhōu wǔ de yīnyuè huì.",
+      "cantonese": "我好期待呢個禮拜五嘅音樂會。",
+      "jyutping": "Ngo5 hou2 kei4doi6 ni1 go3 lai5baai3 ng5 ge3 jam1ngok6 wui2.",
+      "french": "J'ai hâte pour le concert ce vendredi.",
+      "spanish": "Estoy emocionado por el concierto de este viernes."
+    },
+    {
+      "english": "Let’s grab lunch sometime this week.",
+      "mandarin": "我们这周找个时间一起吃午饭吧。",
+      "pinyin": "Wǒmen zhè zhōu zhǎo gè shíjiān yīqǐ chī wǔfàn ba.",
+      "cantonese": "我哋呢個禮拜搵個時間一齊食午餐啦。",
+      "jyutping": "Ngo5dei6 ni1 go3 lai5baai3 wan2 go3 si4gaan1 jat1cai4 sik6 ng5caan1 laa1.",
+      "french": "On se capte pour déjeuner cette semaine.",
+      "spanish": "Vamos a almorzar juntos esta semana."
+    },
+    {
+      "english": "I need to catch up on my assignments.",
+      "mandarin": "我得赶紧完成我的作业。",
+      "pinyin": "Wǒ dé gǎnjǐn wánchéng wǒ de zuòyè.",
+      "cantonese": "我要趕快完成我嘅作業。",
+      "jyutping": "Ngo5 jiu3 gon2faai3 jyun4seng4 ngo5 ge3 zok3jip6.",
+      "french": "Je dois rattraper mes devoirs.",
+      "spanish": "Necesito ponerme al día con mis tareas."
+    },
+    {
+      "english": "It’s been a busy week, but I’m glad it’s finally over.",
+      "mandarin": "这一周很忙，不过终于结束了。",
+      "pinyin": "Zhè yī zhōu hěn máng, bùguò zhōngyú jiéshù le.",
+      "cantonese": "呢個禮拜好忙，但係終於完咗。",
+      "jyutping": "Ni1 go3 lai5baai3 hou2 mong4, daan6hai6 zung1jyu4 jyun4zo2.",
+      "french": "Ça a été une semaine chargée, mais je suis content que ce soit enfin fini.",
+      "spanish": "Ha sido una semana ocupada, pero me alegra que finalmente haya terminado."
+    },
+    {
+      "english": "I’m thinking of joining a new gym nearby.",
+      "mandarin": "我在考虑加入附近的新健身房。",
+      "pinyin": "Wǒ zài kǎolǜ jiārù fùjìn de xīn jiànshēnfáng.",
+      "cantonese": "我諗住加入附近嘅新健身房。",
+      "jyutping": "Ngo5 nam2zyu6 gaap1jyu6 fu6gan6 ge3 san1 gin6san1fong4.",
+      "french": "Je pense à rejoindre une nouvelle salle de sport près de chez moi.",
+      "spanish": "Estoy pensando en unirme a un gimnasio nuevo cerca de mi casa."
+    },
+    {
+      "english": "I need to take a break from studying for a bit.",
+      "mandarin": "我需要休息一下，暂时从学习中休息。",
+      "pinyin": "Wǒ xūyào xiūxí yīxià, zhànshí cóng xuéxí zhōng xiūxí.",
+      "cantonese": "我需要休息一下，暫時唔再溫書。",
+      "jyutping": "Ngo5 seoi1jyu3 jau1sik1 jat1haa5, zaam6si4 m4 zoi3 wan1syu1.",
+      "french": "J'ai besoin de faire une pause dans mes études.",
+      "spanish": "Necesito tomar un descanso de estudiar un poco."
+    },
+    {
+      "english": "I’ve been binge-watching a new show all weekend.",
+      "mandarin": "我整个周末都在追一个新剧。",
+      "pinyin": "Wǒ zhěnggè zhōumò dōu zài zhuī yīgè xīn jù.",
+      "cantonese": "我成個周末都喺追一個新劇。",
+      "jyutping": "Ngo5 seng4go3 zau1mut6 dou1 hai2 zeoi1 jat1go3 san1 kek6.",
+      "french": "J'ai regardé en boucle une nouvelle série tout le week-end.",
+      "spanish": "Estuve viendo una serie nueva todo el fin de semana."
+    },
+    {
+      "english": "I think I’ll take the day off tomorrow to relax.",
+      "mandarin": "我明天打算休息一天，放松一下。",
+      "pinyin": "Wǒ míngtiān dǎsuàn xiūxí yī tiān, fàngsōng yīxià.",
+      "cantonese": "我聽日打算休息一日，放鬆一下。",
+      "jyutping": "Ngo5 ting1jat6 da2syun3 jau1sik1 jat1jat6, fong3sung1 jat1haa5.",
+      "french": "Je pense prendre un jour de congé demain pour me détendre.",
+      "spanish": "Creo que tomaré el día libre mañana para relajarme."
     }
   ]
 }
